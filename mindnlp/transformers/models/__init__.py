@@ -66,7 +66,6 @@ from . import (
     deberta,
     deberta_v2,
     decision_transformer,
-    deformable_detr,
     detr,
     deit,
     distilbert,
@@ -243,7 +242,6 @@ from .data2vec import *
 from .deberta import *
 from .deberta_v2 import *
 from .decision_transformer import *
-from .deformable_detr import *
 from .detr import *
 from .deit import *
 from .distilbert import *
@@ -421,7 +419,6 @@ __all__.extend(deberta_v2.__all__)
 __all__.extend(decision_transformer.__all__)
 __all__.extend(deit.__all__)
 __all__.extend(distilbert.__all__)
-__all__.extend(deformable_detr.__all__)
 __all__.extend(detr.__all__)
 __all__.extend(dpr.__all__)
 __all__.extend(efficientnet.__all__)

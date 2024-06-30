@@ -68,7 +68,7 @@ MODEL_MAPPING_NAMES = OrderedDict(
         ("convnext", "ConvNextModel"),
         ("cvt", "CvtModel"),
         ("data2vec-text", "Data2VecTextModel"),
-        {"data2vec-vision", "Data2VecVisionModel"},
+        ("data2vec-vision", "Data2VecVisionModel"),
         ("deit", "DeiTModel"),
         ("deberta", "DebertaModel"),
         ("decision_transformer", "DecisionTransformerModel"),
